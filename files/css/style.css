@@ -1272,12 +1272,12 @@ a:visited {
   margin-bottom: 17px;
   margin-top: 30px;
 }
-.service-one__title a {
-  color: inherit;
+.service-one__title span {
+  color: #252758;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
 }
-.service-one__title a:hover {
+.service-one__title span:hover {
   color: #a461e5;
 }
 .service-one__text {
@@ -1372,4 +1372,5 @@ width: 8px;
 
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(135deg, #8b4ad6, #e6b022);
+
 }
