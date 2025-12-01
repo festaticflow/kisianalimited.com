@@ -1277,9 +1277,6 @@ a:visited {
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
 }
-.service-one__title span:hover {
-  color: #a461e5;
-}
 .service-one__text {
   margin: 0;
   color: #8B8C9C;
@@ -1374,3 +1371,4 @@ width: 8px;
   background: linear-gradient(135deg, #8b4ad6, #e6b022);
 
 }
+
